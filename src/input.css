@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: 'Moderniz';
+    src: url('../assets/fonts/Moderniz.woff2') format('woff2'),
+         url('../assets/fonts/Moderniz.woff') format('woff');
+  }
+  
+  html {
+    font-family: 'Moderniz', sans-serif;
+  }
+} 

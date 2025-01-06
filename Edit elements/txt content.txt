@@ -1,0 +1,5 @@
+LANDING METASPACE  Building a virtual Platform for community space to make our interactions playful & more human!   A Metaspace to communicate seamlessly through spontaneous conversations, assist to scheduled meetings & engage in real-time with chat, audio and/or video with others!
+
+Open Core, GDPR compliant & 100% hosted in the EU
+Powered by the awesome open source French project: 
+https://workadventu.re/
